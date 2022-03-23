@@ -1,3 +1,4 @@
+previewsEnabled: true
 services:
 - type: web
   name: django-quick-start
