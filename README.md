@@ -1,13 +1,5 @@
-# Deploy a Django App on Render
+# Deprecated
 
-This is a sample [Django](https://www.djangoproject.com/) app bootstrapped using [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) and set up to work with PostgreSQL on Render.
+This repo has been deprecated in favor of https://github.com/render-examples/django
 
-The sample app is deployed at https://django.onrender.com.
-
-## Deployment on Render
-
-Fork the repo and use the button below to deploy this app with one click.
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-To deploy manually, see the guide at https://render.com/docs/deploy-django.
+Please refer to the new repo for the latest updates and improvements on Django 5.0.
